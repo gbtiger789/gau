@@ -1,5 +1,5 @@
 # gau
-TamModule>
+<Module>
 <ModulePrefs title="Facebook" directory_title="Facebook" title_url="http://www.facebook.com/" description="__MSG_hdesc__" author="iBuno" author_affiliation="iBuno" author_email="gadgets@ibuno.net" author_link="http://www.ibuno.net/gadgets/" author_location="Milan,Italy" author_photo="http://www.ibuno.net/gadgets/author.png" author_aboutme="Software solutions for the web and for mobile platforms. IT consulting." author_quote="Web + Mobile" thumbnail="http://www.ibuno.net/gadgets/facebook/g/thumbnail.png" screenshot="http://www.ibuno.net/gadgets/facebook/g/screenshot.png" height="350" width="320" scrolling="false">
 <Require feature="analytics"/>
 <Require feature="views"/>
